@@ -1,10 +1,10 @@
-Hi! I'm Timothy Ng, but most people call me Tim. I graduated from UC Davis with a BS in Mathematics in 2023 and am looking forward to attending UC Irvine to study Data Science for my Master's degree.
+Hi! I'm Timothy Ng, but most people just call me Tim. I'm currently pursuing my Master of Data Science at the University of California, Irvine, and I expect to graduate in December 2025. I received my Bachelor of Science in Mathematics from the University of California, Davis in June 2023.
 
-I'm fascinated by machine learning and data science, and I want to improve my programming skills by making random projects.
+I love math and am fascinated by its applications in machine learning and data science, and I want to improve my programming skills by making random projects (hopefully to be uploaded here).
 
 You can reach me at timothy.ng681@gmail.com or find me on LinkedIn at https://www.linkedin.com/in/timothy-ng-047188142/
 
-Check out my projects in the meantime, and I'll try to keep things updated!
+Check out my projects in the meantime, and I'll try to keep things updated! I have a website now - [timng-gnmit.github.io](timng-gnmit.github.io)
 
 <!---
 - 👋 Hi, I’m Timothy Ng; most people call me Tim
