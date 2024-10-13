@@ -4,8 +4,7 @@ I love math and am fascinated by its applications in machine learning and data s
 
 You can reach me at timothy.ng681@gmail.com or find me on LinkedIn at https://www.linkedin.com/in/timothy-ng-047188142/
 
-Check out my projects in the meantime, and I'll try to keep things updated! I have a website now - [timng-gnmit.github.io](timng-gnmit.github.io)
-
+Check out my projects in the meantime, and I'll try to keep things updated! I have a website now - [timng-gnmit.github.io](https://timng-gnmit.github.io/)
 <!---
 - 👋 Hi, I’m Timothy Ng; most people call me Tim
 - 👀 I’m interested in number theory, machine learning, data science, and programming
