@@ -1,4 +1,4 @@
-Hi! I'm Timothy Ng, but most people just call me Tim. I'm currently pursuing my Master of Data Science at the University of California, Irvine, and I expect to graduate in December 2025. I received my Bachelor of Science in Mathematics from the University of California, Davis in June 2023.
+Hi! I'm Timothy Ng, but most people just call me Tim. I received Master of Data Science at the University of California, Irvine in December 2025. I received my Bachelor of Science in Mathematics from the University of California, Davis in June 2023.
 
 I love math and am fascinated by its applications in machine learning and data science, and I want to improve my programming skills by making random projects (hopefully to be uploaded here).
 
